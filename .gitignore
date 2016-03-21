@@ -49,3 +49,5 @@ __pycache__
 /src/Csocket.cpp
 /include/znc/Csocket.h
 
+
+modules/.depend
